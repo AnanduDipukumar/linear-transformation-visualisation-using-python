@@ -1,6 +1,6 @@
 # linear-transformation-visualisation
-##author  : Anandu Dipukumar
-###date    : 18/01/2022
+author  : Anandu Dipukumar
+date    : 18/01/2022
 
 This project helps realise the real intution behind matrices , determinants, eigen values ,
 eigen vectors and what they sound in the real world. it also explains the existance of complex 
